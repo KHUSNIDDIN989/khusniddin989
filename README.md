@@ -1,11 +1,3 @@
-I work remotely and like to travel a lot.
-
-<a href="https://www.youtube.com/azizbekkhabibullaev">
-  <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" width="30px">
-- 📨&nbsp; How to reach me: [@azizbekkhabibullaev_](https://instagram.com/azizbekkhabibullaev_/)
-<!--
-**KHUSNIDDIN989/khusniddin989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
