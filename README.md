@@ -33,7 +33,7 @@
 ![terminal (1)](https://user-images.githubusercontent.com/81862443/193223002-9f2adf20-a186-4ea3-a79d-78361424fe47.gif)
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+
 
 
 
