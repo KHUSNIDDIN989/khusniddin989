@@ -43,11 +43,6 @@
 
 
 
-<center>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=39&pause=1000&color=196209&width=435&lines=Nobody+can+stop+me!;To+Learn+Unlimited" alt="Typing SVG" /></a>
-  
-  </center>
 
 
 
