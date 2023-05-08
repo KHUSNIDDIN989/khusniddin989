@@ -30,8 +30,8 @@
 
 ![REAL_GEM](https://user-images.githubusercontent.com/81862443/193224753-da0f0d75-6797-43eb-b2cd-ddc037ee777c.png)
 
-![terminal (1)](https://user-images.githubusercontent.com/81862443/193223002-9f2adf20-a186-4ea3-a79d-78361424fe47.gif)
-
+<!-- ![terminal (1)](https://user-images.githubusercontent.com/81862443/193223002-9f2adf20-a186-4ea3-a79d-78361424fe47.gif)
+ -->
 
 
 
